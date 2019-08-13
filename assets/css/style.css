@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 55px;
+}
+
+p {
+    line-height: 2em;
+    font-size: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.container, .container-fluid, .navbar{
+    background-color: #e7e7e7
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-brand {
+    background-color: #469494;
+    font-size: 40px;
+}
+
+h2 {
+    padding: 20px 0px 10px 0px;
+}
