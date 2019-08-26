@@ -33,3 +33,13 @@ h2 {
     padding-top: 13px;
     background: #469494;
 }
+
+a {
+    color: #e7e7e7;
+    text-decoration: none;  
+}
+a:hover {
+    color: #469494;
+    text-decoration: none;
+    
+}
